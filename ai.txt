@@ -12,7 +12,7 @@ console.mistral.ai
 anthropic.com
 api.anthropic.com
 docs.anthropic.com
-twitter.com (for Grok/xAI integration via X)
+twitter.com
 x.com
 poe.com
 perplexity.ai
