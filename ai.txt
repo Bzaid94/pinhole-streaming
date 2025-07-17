@@ -36,3 +36,6 @@ botonic.dev
 whatsapp.com
 facebook.com
 builtin.com
+kimi.com
+x.ai
+grok.com
