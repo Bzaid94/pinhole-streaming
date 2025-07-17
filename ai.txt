@@ -39,3 +39,4 @@ builtin.com
 kimi.com
 x.ai
 grok.com
+character.ai

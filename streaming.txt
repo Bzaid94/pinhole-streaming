@@ -10,7 +10,8 @@ hulu.com
 espanol.hulu.com
 twitch.tv
 crunchyroll.com
-funimation.com or fandom.com
+funimation.com
+fandom.com
 vudu.com
 vimeo.com
 tubitv.com
