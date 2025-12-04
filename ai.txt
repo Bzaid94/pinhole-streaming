@@ -4,6 +4,7 @@ chat.openai.com
 api.deepseek.com
 chat.deepseek.com
 www.deepseek.com
+antigravity.google
 mistral.ai
 api.mistral.ai
 docs.mistral.ai
@@ -32,7 +33,9 @@ rasa.com
 chatterbot.sourceforge.io
 botonic.dev
 whatsapp.com
+web.whatsapp.com
 facebook.com
+linkedin.com
 builtin.com
 kimi.com
 x.ai
